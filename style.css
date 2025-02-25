@@ -19,9 +19,10 @@ body{
 
 h1{
     font-weight: normal;
-    font-size: 3rem;
+    font-size: 2.5rem;
     margin-top: 0rem;
     margin-bottom: 0rem;
+    align-self: center;
     font-family: 'kanit';
 }
 
